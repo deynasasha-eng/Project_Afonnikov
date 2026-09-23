@@ -423,12 +423,12 @@ document.addEventListener('DOMContentLoaded', function() {
 
         const element = document.createElement('div');
         element.innerHTML = `
-        <h1 style="text-align: center; color: #2c7873; margin-bottom: 20px;">Мои объединения</h1>
+        <h1 style="text-align: center; color: #8FB5E1; margin-bottom: 20px;">Мои объединения</h1>
         <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-top: 20px;">
             ${matchedClubs.map(club => `
                 <div style="text-align: center; padding: 10px; border: 1px solid #eee; border-radius: 8px;">
                     <img src="${club.image}" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; margin-bottom: 5px;" alt="${club.name}">
-                    <h3 style="font-size: 14px; color: #2c7873; margin: 5px 0;">${club.name}</h3>
+                    <h3 style="font-size: 14px; color: #8FB5E1; margin: 5px 0;">${club.name}</h3>
                 </div>
             `).join('')}
         </div>
