@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 logo.style.left = x + 'px';
                 logo.style.top = y + 'px';
                 logo.style.position = 'absolute';
-                logo.style.opacity = '0.14';
+                logo.style.opacity = '0.20';
                 logo.style.transition = 'transform 0.25s ease, opacity 0.25s ease';
                 logo.style.transform = `rotate(${Math.random() * 15 - 7.5}deg)`; // Небольшой случайный поворот
 
