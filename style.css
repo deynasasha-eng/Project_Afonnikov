@@ -1,7 +1,7 @@
 :root {
     --primary-color: #003896;
     --secondary-color: #cccccc;
-    --accent-color: #004358;
+    --accent-color: #003896;
     --background-gradient: linear-gradient(135deg, #8FB5E1, #00BCD5);
     --text-color: #333;
     --light-text: #fff;
@@ -143,7 +143,7 @@ html {
 .mode-label {
     font-size: 1.1rem;
     font-weight: 500;
-    color: #004358; /* Белый цвет как светлые элементы в хедере */
+    color: #003896; /* Белый цвет как светлые элементы в хедере */
     text-shadow: 0 1px 2px rgba(0,0,0,0.3); /* Легкая тень для читаемости */
 }
 
