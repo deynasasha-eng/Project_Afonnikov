@@ -93,7 +93,7 @@ document.addEventListener('DOMContentLoaded', function() {
         ],
         creative: [
             {
-                name: "герценовский игровой клуб",
+                name: "Герценовский Игровой Клуб",
                 description: "Организуем культурные мероприятия, концерты и творческие вечера в университете.",
                 link: "https://nhosp.ru/lechenie-alkogolizma/",
                 image: "images/herzen-game-club.png"
@@ -110,10 +110,10 @@ document.addEventListener('DOMContentLoaded', function() {
         squads: [
 
             {
-                name: 'студенческий биологический отряд "Новая Земля"',
+                name: 'Студенческий биологический отряд "Новая Земля"',
                 description: "изучаем жизнь пеликанов",
                 link: "https://vk.ru/sbo_nz",
-                image: "images/sea.jpg"
+                image: "images/earth.jpg"
             },
         ]
     };
