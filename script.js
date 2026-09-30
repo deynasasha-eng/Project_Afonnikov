@@ -95,8 +95,8 @@ document.addEventListener('DOMContentLoaded', function() {
             {
                 name: "Герценовский Игровой Клуб",
                 description: "Организуем культурные мероприятия, концерты и творческие вечера в университете.",
-                link: "https://nhosp.ru/lechenie-alkogolizma/",
-                image: "images/herzen-game-club.png"
+                link: "https://vk.ru/herzengame",
+                image: "images/gik.jpg"
             },
         ],
         sport: [
